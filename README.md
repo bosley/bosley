@@ -1,7 +1,7 @@
-<h1 align="center">I'm Josh Bosley</h1>
-<h3 align="center">Embedded Developer </h3>
-- 🔭 I’m currently working on [Nabla Virtual Machine](https://github.com/NablaVM)
+<h1 align="center">Josh Bosley</h1>
+<h3 align="center">Computer Engineer</h3>
 
+- 🔭 I’m currently working on [Nabla Virtual Machine](https://github.com/NablaVM)
 - 📝 I regulary write articles on [https://joshbosley.com](https://joshbosley.com)
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center">
