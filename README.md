@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer</h3>
 
 - ✨ [C++ is my jam](https://astroskiff.com)
-- 🤔 [PL/VM Design](https://github.com/skiff-vm)
+- 🤔 [PL/VM Design](https://github.com/astroskiff)
 - 👀 [Computer Vision](https://github.com/bosley/Active-Contours)
 - ⚙️ [Rust is cool](https://github.com/bosley/rcv-dev)
 
