@@ -1,8 +1,6 @@
 <h1 align="center">Josh Bosley</h1>
 <h3 align="center">Computer Engineer</h3>
 
-- ✨ [C++ is my favorite](https://astroskiff.com)
-- ⚙️ [Rust is cool too](https://github.com/bosley/rcv-dev)
 - 🤔 [PL/VM Design](https://github.com/astroskiff)
 - 👀 [Computer Vision](https://github.com/bosley/Active-Contours)
 
