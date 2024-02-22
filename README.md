@@ -1,8 +1,13 @@
 <h1 align="center">Josh Bosley</h1>
-<h3 align="center">Computer Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🤔 [PL/VM Design](https://github.com/astroskiff)
+- :earth_americas: [Website](https://joshbosley.dev)
+- 🤔 [PL/VM Design](https://github.com/nibi-lang)
 - 👀 [Computer Vision](https://github.com/bosley/Active-Contours)
+
+I have left GitHub as my primary git hosting for personal projects.
+
+If you're interested in what I'm doing now feel free to check out [my self hosted gitlab instance](https://insulalabs.dev/bosley)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bosley&count_private=true&include_all_commits=true&layout=compact&theme=github_dark&hide_border=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
